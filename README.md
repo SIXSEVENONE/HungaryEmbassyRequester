@@ -1,3 +1,3 @@
-Пример работы скрипта: https://www.youtube.com/watch?v=KD7fY5uFs1E
+Пример работы скрипта: https://youtu.be/ry6ZUI0ejdo
 
 Dependencies: Installed Google Chrome https://www.google.com/chrome/
